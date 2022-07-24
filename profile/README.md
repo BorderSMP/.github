@@ -13,3 +13,7 @@ We are a Minecraft SMP based around the idea of players being able to control th
 
 - [Dufji [Owner & Founder]](https://www.github.com/Dufji)
 - [Badbird5907 [Developer]](https://www.github.com/Badbird5907)
+
+## Thanks
+
+- [HyperSkys](https://github.com/HyperSkys) For developing some parts
